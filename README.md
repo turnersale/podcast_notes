@@ -1,11 +1,14 @@
 # Podcast Notes
 
 ## Table of Contents
-1. [Purpose](#purpose-)
-2. [Leadership](#leadership-)
-   1. [Lead to Win](#lead-to-win-)
-3. [Programming](#programming-)
-4. [Philosophy](#philosophy-)
+- [Podcast Notes](#podcast-notes)
+  - [Table of Contents](#table-of-contents)
+  - [Purpose <a name='purpose'></a>](#purpose-)
+  - [Leadership <a name='leadership'></a>](#leadership-)
+    - [Lead to Win <a name='lead to win'></a>](#lead-to-win-)
+  - [Programming <a name='programming'></a>](#programming-)
+  - [Philosophy <a name='philosophy'></a>](#philosophy-)
+    - [Philosophize This! <a name='philosophize this'></a>](#philosophize-this-)
 
 ## Purpose <a name='purpose'></a>
 This repository is designed to organize and contain all my notes from listening to podcasts and similar content. Details for each podcast (such as the purpose, creator, presenter and other metadata) is contained in this readme, while each podcast will receive its own markdown file for notes.
@@ -21,7 +24,7 @@ Podcasts will be broken down by topic and linked to its related content. Any mul
 
 ## Programming <a name='programming'></a>
 
-## Philosphy <a name='philosophy'></a>
+## Philosophy <a name='philosophy'></a>
 
 ### Philosophize This! <a name='philosophize this'></a>
 - Host: Stephen West
