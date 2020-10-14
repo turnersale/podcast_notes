@@ -6,6 +6,8 @@
   - [Purpose](#purpose)
   - [Leadership](#leadership)
     - [Lead to Win](#lead-to-win)
+  - [Psychology](#psychology)
+    - [Hidden Brain](#hidden-brain)
   - [Programming](#programming)
   - [Philosophy](#philosophy)
     - [Philosophize This!](#philosophize-this)
@@ -21,6 +23,13 @@ Podcasts will be broken down by topic and linked to its related content. Any mul
 - Host: Michael Hyatt
 - Website:  https://michaelhyatt.com/leadtowin/
 - Purpose: Weekly leadership lessons for lasting success.
+
+## Psychology
+
+### Hidden Brain
+- Host: Shankar Vedantam
+- Website: https://www.npr.org/series/423302056/hidden-brain
+- Purpose: A conversation about life's unseen patterns.
 
 ## Programming
 
