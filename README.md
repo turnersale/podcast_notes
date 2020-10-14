@@ -3,30 +3,30 @@
 ## Table of Contents
 - [Podcast Notes](#podcast-notes)
   - [Table of Contents](#table-of-contents)
-  - [Purpose <a name='purpose'></a>](#purpose-)
-  - [Leadership <a name='leadership'></a>](#leadership-)
-    - [Lead to Win <a name='lead to win'></a>](#lead-to-win-)
-  - [Programming <a name='programming'></a>](#programming-)
-  - [Philosophy <a name='philosophy'></a>](#philosophy-)
-    - [Philosophize This! <a name='philosophize this'></a>](#philosophize-this-)
+  - [Purpose](#purpose)
+  - [Leadership](#leadership)
+    - [Lead to Win](#lead-to-win)
+  - [Programming](#programming)
+  - [Philosophy](#philosophy)
+    - [Philosophize This!](#philosophize-this)
 
-## Purpose <a name='purpose'></a>
+## Purpose
 This repository is designed to organize and contain all my notes from listening to podcasts and similar content. Details for each podcast (such as the purpose, creator, presenter and other metadata) is contained in this readme, while each podcast will receive its own markdown file for notes.
 
 Podcasts will be broken down by topic and linked to its related content. Any multimedia components will also be contained inside the note markdown files (including images, books, videos and bibliographic information).
 
-## Leadership <a name='leadership'></a>
+## Leadership
 
-### Lead to Win <a name='lead to win'></a>
+### Lead to Win
 - Host: Michael Hyatt
 - Website:  https://michaelhyatt.com/leadtowin/
 - Purpose: Weekly leadership lessons for lasting success.
 
-## Programming <a name='programming'></a>
+## Programming
 
-## Philosophy <a name='philosophy'></a>
+## Philosophy
 
-### Philosophize This! <a name='philosophize this'></a>
+### Philosophize This!
 - Host: Stephen West
 - Website: https://www.philosophizethis.org/
 - Purpose: For anyone interested in an educational podcast about philosophy where you don’t need to be a graduate-level philosopher to understand it.
