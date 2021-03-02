@@ -74,3 +74,26 @@
   - Set up a reward 
   - Measure the gain (from baseline) rather than the gap (from the initial goal)
 
+## Episode 8 - You Can Design Your Own Year
+- 5 steps to design your year
+  - Choose the right approach
+    - The Drift - go with the flow
+      - Go with the flow is not the right approach as it leads to stagnation
+      - You cannot choose the destination 
+    - Driven - an overcorrection of the drift
+      - Can lead to blowouts
+      - Higher risk of losing those things that are important to you
+    - The Drift and being Driven are two sides of the same coin
+    - This is often the default mode
+    - Design
+      - Intentionally craft the life you really want
+  - Set aside the time
+    - Desirable outcomes rarely just happen
+    - A couple hours is usually all that is needed for planning a year (spread over a couple days)
+  - Chart a course
+    - Where are you, and where do you want to go?
+    - Acknowledge where you are
+  - Envision your ideal outcome
+  - Make the first step
+    - A detailed plan can help, but procrastination destroys potential
+    - Hold your goals tightly and your strategy lightly
