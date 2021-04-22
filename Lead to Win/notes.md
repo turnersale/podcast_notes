@@ -121,4 +121,15 @@
     - Hold your goals tightly and your strategy lightly
 
 ## Episode 9 - 3 Emotions That Keep You Stuck (and How to Overcome Them)
-- 
+- Kodak used to be the #1 camera company, but the last time it turned a profit was 2007; right when the iPhone was released
+- This is because they bet the whole farm on the film market when digital was taking over, even though Kodak had originally invented the first digital camera
+- Emotions that keep us from moving forward
+  - Fear
+  - Uncertainty
+  - Doubt
+- Fear of losing what we have is greater than the value we assign to potential gains
+- Fear and desire are processed in similar areas of the brain, this can make it easy to become fearful when we are also thinking about possitive potential outcomes
+- Remember that your track record is good and you are almost certainly going to work through the difficulty
+- Certainty is very rare and can make it diffucult for executives to make decisions
+- The goal is where you want to be and the strategy is how to get there, so we must be confident of the endgame but able to shift strategy as needed
+- Taking baby steps can be key to overcoming uncertainty since it keeps carrying you forward even if not at a high speed
