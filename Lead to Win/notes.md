@@ -10,6 +10,28 @@
   - Go on the hunt for new information/insights
   - Embody what they learn
 
+## Episode 3 - Better Things Come to Those Who Wait
+- We live in an instant culture where everything is delivered to us immediately
+  - Amazon delivers packages, YouTube delivers video, Netflix delivers movies, all instantly
+- There is a crisis of patience - could also be called self-denial or building up a frustration tolerance
+- Practice to built tolerance
+  - Keeping yourself focused on the goal
+    - Studies have found "mental residue" holds over when switching between tasks
+    - These "residue" slows down the productivity down for up to 20 minutes!
+- Negativity descends to pessismism which descends to cynicism which is like a stain on your soul
+- Optimism without pessimism leads to delusion, while hopeful realism leads to pivoting
+- Choose to lead your values, not just speak them
+- Appetites are never fully and finally satisfied
+
+## Episode 4 - How to Beat the Burnout Culture
+- Consequences of burnout
+  - Effectiveness
+    - Research shows 50+ hour weeks have NO additional productivity and can in fact have negative impacts on productivity
+  - Health
+    - It has been found that those who sleep 6 hours a night for 2 weeks performed similarly to those that would be considered legally drunk
+  - Relationships
+    - Stress management skills and lack of ability to read emotional cues are consequences of lack of sleep and rest
+
 ## Episode 5 - Anatomy of a Tough Talk
 - 3 phases
   - Before the talk
@@ -97,3 +119,6 @@
   - Make the first step
     - A detailed plan can help, but procrastination destroys potential
     - Hold your goals tightly and your strategy lightly
+
+## Episode 9 - 3 Emotions That Keep You Stuck (and How to Overcome Them)
+- 
